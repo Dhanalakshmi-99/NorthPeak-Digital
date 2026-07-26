@@ -1,3 +1,5 @@
+<img width="1920" height="1021" alt="Lighthouse-Mobile png" src="https://github.com/user-attachments/assets/ef8ca31e-582a-4685-be2a-16626321f0c2" />
+<img width="1920" height="1013" alt="Lighthouse-desktop png" src="https://github.com/user-attachments/assets/681d6e10-e769-4700-9821-7aa2bd9f2aff" />
 # NorthPeak Digital
 
 A responsive one-page web development agency website.
